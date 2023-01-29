@@ -5,7 +5,7 @@ import './App.css';
 import BestBoard from './board/BestBoard';
 import HomeBoard from './board/HomeBoard'; 
 import JobBoard from './board/JobBoard';
-
+import Header from './common/Header';
 
 function App() {
 
@@ -16,10 +16,11 @@ function App() {
 
   return (
     <div className="App">             
-      <Form.Group className="mb-3 topSearchForm" controlId="formBasicEmail" >
+      {/* <Form.Group className="mb-3 topSearchForm" controlId="formBasicEmail" >
           <Form.Control type="email" placeholder="관심 있는 글 선택" />
-      </Form.Group>
-      <Nav variant="tabs"  defaultActiveKey="link1">
+      </Form.Group> */}
+      <Header onClickSearch={() => console.log("검색 영역 클릭")} />
+      <Nav variant="tabs"  defaultActiveKey="link1" justify="true">
         <Nav.Item>
           <Nav.Link eventKey="link0" onClick={()=>{ setBoard(0) }}>채용</Nav.Link>
         </Nav.Item>
