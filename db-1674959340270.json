@@ -1,0 +1,26 @@
+{
+  "postings": [
+    {
+      "postId": 0,
+      "date": 20230128,
+      "time": "220410",
+      "user": "happyhappyy",
+      "userId": 0,
+      "company": "kakao",
+      "title": "아휴 샐러드 품절",
+      "content": "오또케",
+      "category": "블라블라"
+    },
+    {
+      "postId": 1,
+      "date": 20230128,
+      "time": "222117",
+      "user": "fire77",
+      "userId": 1,
+      "company": "kb증권",
+      "title": "한금지",
+      "content": "배당금 얼마냐",
+      "category": "블라블라"
+    }
+  ]
+}

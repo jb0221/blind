@@ -1,0 +1,73 @@
+.homeBoardDiv {
+  width: 100%;
+}
+
+.homeBoardDiv ul {
+  list-style: none; 
+}
+
+.homeBoardDiv li {
+  margin: 5px 0;
+  border-bottom: 2px solid lightgray;
+  text-align: center;
+} 
+
+.homeBoardDiv li > .pCategory {
+  font-weight: bold;
+  font-size:  12px;
+}
+
+.homeBoardDiv li span {
+  font-size: 12px;
+  margin-right: 5px;
+}
+
+/* 관심 있는 글 선택 */
+.topSearchForm { 
+  padding: 10px;
+  width: 70%;
+  text-align: center;
+}
+
+/* 최신순, 추천순 */
+.homeNavDropDown {
+  padding: 5px;
+  text-align: left;
+  background-color: lightgrey;
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
