@@ -1,92 +1,89 @@
 {
-    "postings" : [
-        {
-            "postId" :0,
-            "date": 20230128,
-            "time":"220410",
-            "user":"happyhappyy",
-            "userId":0,
-            "company":"kakao",
-            "title": "아휴 샐러드 품절",
-            "content":"오또케",
-            "category":"블라블라"
-        },
-        {
-            "postId" :1,
-            "date": 20230128,
-            "time":"222117",
-            "user":"fire77",
-            "userId":1,
-            "company":"kb증권",
-            "title": "한금지",
-            "content":"배당금 얼마냐",
-            "category":"블라블라"
-        },
-        {
-            "postId" :2,
-            "date": 20230128,
-            "time":"222117",
-            "user":"library",
-            "userId":1,
-            "company":"키움증권",
-            "title": "삼성전자",
-            "content":"10만전자 언제되냐",
-            "category":"블라블라"
-        },
-        {
-            "postId" :3,
-            "date": 20230128,
-            "time":"222117",
-            "user":"fire77",
-            "userId":1,
-            "company":"kb증권",
-            "title": "한금지",
-            "content":"배당금 얼마냐",
-            "category":"블라블라"
-        },
-        {
-            "postId" :4,
-            "date": 20230128,
-            "time":"222117",
-            "user":"fire77",
-            "userId":1,
-            "company":"kb증권",
-            "title": "한금지",
-            "content":"배당금 얼마냐",
-            "category":"블라블라"
-        },
-        {
-            "postId" :5,
-            "date": 20230128,
-            "time":"222117",
-            "user":"fire77",
-            "userId":1,
-            "company":"kb증권",
-            "title": "한금지",
-            "content":"배당금 얼마냐",
-            "category":"블라블라"
-        },
-        {
-            "postId" :6,
-            "date": 20230128,
-            "time":"222117",
-            "user":"fire77",
-            "userId":1,
-            "company":"kb증권",
-            "title": "한금지",
-            "content":"배당금 얼마냐",
-            "category":"블라블라"
-        },
-        {
-            "postId" :7,
-            "date": 20230128,
-            "time":"222117",
-            "user":"fire77",
-            "userId":1,
-            "company":"kb증권",
-            "title": "한금지",
-            "content":"배당금 얼마냐",
-            "category":"블라블라"
-        }
-    ]
+  "postings": [
+    {
+      "postId": 0,
+      "date": 20230128,
+      "time": "220410",
+      "user": "happyhappyy",
+      "userId": 0,
+      "company": "kakao",
+      "title": "아휴 샐러드 품절",
+      "content": "오또케",
+      "category": "블라블라",
+      "view" : "20",
+      "like" : "10"
+    },
+    {
+      "postId": 1,
+      "date": 20230128,
+      "time": "222117",
+      "user": "fire77",
+      "userId": 1,
+      "company": "kb증권",
+      "title": "한금지",
+      "content": "배당금 얼마냐",
+      "category": "블라블라",
+      "view" : "11",
+      "like" : "7"
+    },
+    {
+      "postId": 2,
+      "date": 20230128,
+      "time": "222117",
+      "user": "library",
+      "userId": 1,
+      "company": "키움증권",
+      "title": "삼성전자",
+      "content": "10만전자 언제되냐",
+      "category": "블라블라",
+      "view" : "50",
+      "like" : "9"
+    },
+    {
+      "postId": 3,
+      "date": 20230128,
+      "time": "222117",
+      "user": "fire77",
+      "userId": 1,
+      "company": "kb증권",
+      "title": "한금지",
+      "content": "배당금 얼마냐",
+      "category": "블라블라",
+      "view" : "41",
+      "like" : "13"
+    },
+    {
+      "postId": 4,
+      "date": 20230128,
+      "time": "222117",
+      "user": "fire77",
+      "userId": 1,
+      "company": "kb증권",
+      "title": "한금지",
+      "content": "배당금 얼마냐",
+      "category": "블라블라"
+    },
+    {
+      "postId": 5,
+      "date": 20230128,
+      "time": "222117",
+      "user": "fire77",
+      "userId": 1,
+      "company": "kb증권",
+      "title": "한금지",
+      "content": "배당금 얼마냐",
+      "category": "블라블라"
+    },
+    {
+      "postId": 6,
+      "date": 20230128,
+      "time": "222117",
+      "user": "fire77",
+      "userId": 1,
+      "company": "kb증권",
+      "title": "한금지",
+      "content": "배당금 얼마냐",
+      "category": "블라블라"
+    }
+  ]
 }
