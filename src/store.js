@@ -20,12 +20,19 @@ let allPost = createSlice({
             return state = a.payload;
         },
         increaseLike (state,a){
-
+            
             // 좋아요 수 플러스 1 
-            state.filter((state,idx)=>{ 
+            let right = 0;
+            let false2 = 0;
+            let idx = 0;
+            state.filter((post,idx)=>{ 
 
+                if(post.postId==a.payload){
+                     idx = idx;
+                } 
             })
            
+                state[idx].like =Number(state[idx].like)+1;
           
                 
         }       
