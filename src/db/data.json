@@ -11,7 +11,8 @@
       "content": "오또케",
       "category": "블라블라",
       "view" : "20",
-      "like" : "10"
+      "like" : "10",
+      "clickedLike" : false
     },
     {
       "postId": 1,
